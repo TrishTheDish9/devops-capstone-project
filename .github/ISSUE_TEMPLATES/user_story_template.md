@@ -1,6 +1,6 @@
 ---
-name: ISSUE_TEMPLATES
-about: Issue Templates is used to create user storeies.
+name: USER_STORY_TEMPLATE
+about: User Story Template used to create user stories.
 title: ''
 labels: ''
 assignees: ''
