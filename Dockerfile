@@ -16,3 +16,5 @@ USER theia
 # Run service
 EXPOSE 8080
 CMD ["gunicorn", "--bind=0.0.0.0:8080", "--log-level=info", "service:app"]
+
+# URL accounts-sn-labs-patriciaamar.labs-prod-openshift-san-a45631dc5778dc6371c67d206ba9ae5c-0000.us-east.containers.appdomain.cloud
