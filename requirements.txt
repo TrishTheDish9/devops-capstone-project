@@ -9,6 +9,7 @@ python-dotenv==0.21.1
 
 # Runtime dependencies
 Flask-Talisman
+Flask-Cors
 gunicorn==20.1.0
 honcho==1.1.0
 
